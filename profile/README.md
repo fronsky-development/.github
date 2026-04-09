@@ -7,7 +7,7 @@ Fronsky is a Netherlands-based software studio specializing in custom web applic
 
 ## 🛠️ Expertise
 - **Modern Software Solutions:** Building seamless, responsive, and functional web applications tailored to business needs.
-- **Game Development & Tools:** Designing standalone games and professional-grade integrations (Minecraft) built for performance.
+- **Game Development & Integrations:** Designing standalone games and professional-grade integrations (Minecraft) built for performance.
 - **Custom Web Apps & Automations:** Creating efficient scripts and platforms to streamline complex digital workflows.
 
 ---
