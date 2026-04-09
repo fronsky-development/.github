@@ -12,14 +12,6 @@ Fronsky is a Netherlands-based software studio specializing in custom web applic
 
 ---
 
-## 📂 Featured Projects
-Current active projects available on our platform:
-
-* **[Vanish](https://fronsky.nl/projects/vanish):** A premium, high-performance invisibility solution for Minecraft servers.
-* **[Prefix](https://fronsky.nl/projects/prefix):** A streamlined chat and player identification management system.
-
----
-
 ## 🎨 Identity & Standards
 Our work is defined by the **#A1C4FD** (Soft Blue) identity—representing clarity, trust, and a modern approach to software engineering.
 
