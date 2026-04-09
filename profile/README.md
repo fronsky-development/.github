@@ -1,1 +1,40 @@
-# Fronsky
+# <img src="https://raw.githubusercontent.com/fronsky-development/.github/main/profile/fronsky.png" width="40" height="40" /> Fronsky
+
+### **Modern Software Development & Digital Solutions**
+Fronsky is a Netherlands-based software studio specializing in custom web applications, automation, and high-quality game integrations. We focus on clean code, scalability, and delivering tools that enhance digital environments.
+
+---
+
+## 🛠️ Expertise
+- **Modern Software Solutions:** Building seamless, responsive, and functional web applications tailored to business needs.
+- **Game Development & Tools:** Designing standalone games and professional-grade integrations (Minecraft) built for performance.
+- **Custom Web Apps & Automations:** Creating efficient scripts and platforms to streamline complex digital workflows.
+
+---
+
+## 📂 Featured Projects
+Current active projects available on our platform:
+
+* **[Vanish](https://fronsky.nl/projects/vanish):** A premium, high-performance invisibility solution for Minecraft servers.
+* **[Prefix](https://fronsky.nl/projects/prefix):** A streamlined chat and player identification management system.
+
+---
+
+## 🎨 Identity & Standards
+Our work is defined by the **#A1C4FD** (Soft Blue) identity—representing clarity, trust, and a modern approach to software engineering.
+
+| 💎 **Brand Color:** | `#A1C4FD` |
+| :--- | :--- |
+| 🛡️ **Status:** | Verified at [fronsky.nl](https://fronsky.nl) |
+| 🌍 **Location:** | The Netherlands |
+
+---
+
+## 📫 Connect with Us
+- **Official Website:** [fronsky.nl](https://fronsky.nl)
+- **Business Inquiries:** [info@fronsky.nl](mailto:info@fronsky.nl)
+- **Lead Developer:** [@rikmeijers](https://github.com/rikmeijers)
+
+---
+
+© 2026 Fronsky | KVK Registered (The Netherlands)
