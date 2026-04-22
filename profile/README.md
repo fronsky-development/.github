@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/fronsky-development/.github/main/profile/fronsky.png" width="40" height="40" /> Fronsky
+# Fronsky
 
 ### **Modern Software Development & Digital Solutions**
 Fronsky is a Netherlands-based software studio specializing in custom web applications, automation, and high-quality game integrations. We focus on clean code, scalability, and delivering tools that enhance digital environments.
