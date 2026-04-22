@@ -1,5 +1,3 @@
-# Fronsky
-
 ### **Modern Software Development & Digital Solutions**
 Fronsky is a Netherlands-based software studio specializing in custom web applications, automation, and high-quality game integrations. We focus on clean code, scalability, and delivering tools that enhance digital environments.
 
