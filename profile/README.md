@@ -11,12 +11,12 @@ Fronsky is a Netherlands-based software studio specializing in custom web applic
 ---
 
 ## 🎨 Identity & Standards
-Our work is defined by the **#04B2E3** (Soft Blue) identity—representing clarity, trust, and a modern approach to software engineering.
+Our work is defined by the **#1570c6** identity—representing clarity, trust, and a modern approach to software engineering.
 
-| 💎 **Brand Color:** | `#04B2E3` |
+| 💎 **Brand Color:** | `#1570c6` |
 | :--- | :--- |
 | 🛡️ **Status:** | Verified at [fronsky.nl](https://fronsky.nl) |
-| 🌍 **Location:** | The Netherlands |
+| 🌍 **Location:** | The Netherlands, Maastricht |
 
 ---
 
